@@ -1,0 +1,26 @@
+public class Programa{
+    public static void main(String[] args){
+
+    int x, y, z;
+    char pedro, henrique;
+    float d;
+    double radius;
+
+
+
+    x = 1 + 2 * 3 / y;
+    z = 24;
+
+
+    if (z == 24){
+    System.out.println("z");
+    } else {
+    System.out.println("x");
+    };
+
+    Scanner entrada = new Scanner(x);
+
+
+    System.out.println("x");
+        }
+    }
